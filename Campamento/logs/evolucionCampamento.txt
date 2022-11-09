@@ -1,0 +1,4 @@
+
+ Time: 2022-05-14 14:33:20.04: INFO ; Se generan los monitores
+ Time: 2022-05-14 14:33:20.053: INFO ; Se generan los ninos
+ Time: 2022-05-14 14:33:26.06: INFO ; El nino con id N2 ha entrado en la soga
