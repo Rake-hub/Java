@@ -1,33 +1,9 @@
 
- Time: 2022-11-15 17:43:28.31: INFO ; Se generan los monitores
- Time: 2022-11-15 17:43:28.329: INFO ; Se generan los ninos
- Time: 2022-11-15 17:43:47.398: INFO ; El nino con id N6 ha entrado en la soga
- Time: 2022-11-15 17:43:49.877: INFO ; El nino con id N7 ha entrado en la soga
- Time: 2022-11-15 17:43:52.974: INFO ; El nino con id N4 ha entrado en la soga
- Time: 2022-11-15 17:43:58.033: INFO ; El nino con id N11 ha entrado en la soga
- Time: 2022-11-15 17:44:00.524: INFO ; El nino con id N10 ha entrado en la soga
- Time: 2022-11-15 17:44:06.438: INFO ; El nino con id N5 ha entrado en la soga
- Time: 2022-11-15 17:44:11.248: INFO ; El nino con id N20 ha entrado en la soga
- Time: 2022-11-15 17:44:12.191: INFO ; El nino con id N9 ha entrado en la soga
- Time: 2022-11-15 17:44:17.929: INFO ; El nino con id N23 ha entrado en la soga
- Time: 2022-11-15 17:44:37.959: INFO ; El nino con id N33 ha entrado en la soga
- Time: 2022-11-15 17:44:46.047: INFO ; El nino con id N24 ha entrado en la soga
- Time: 2022-11-15 17:44:47.315: INFO ; El nino con id N20 ha entrado en la soga
- Time: 2022-11-15 17:44:48.344: INFO ; El nino con id N19 ha entrado en la soga
- Time: 2022-11-15 17:44:48.431: INFO ; El nino con id N14 ha entrado en la soga
- Time: 2022-11-15 17:44:50.032: INFO ; El nino con id N10 ha entrado en la soga
- Time: 2022-11-15 17:44:50.578: INFO ; El nino con id N22 ha entrado en la soga
- Time: 2022-11-15 17:44:54.928: INFO ; El nino con id N36 ha entrado en la soga
- Time: 2022-11-15 17:44:55.311: INFO ; El nino con id N17 ha entrado en la soga
- Time: 2022-11-15 17:44:56.669: INFO ; El nino con id N41 ha entrado en la soga
- Time: 2022-11-15 17:45:02.724: INFO ; El nino con id N9 ha entrado en la soga
- Time: 2022-11-15 17:45:11.823: INFO ; El nino con id N31 ha entrado en la soga
- Time: 2022-11-15 17:45:11.937: INFO ; El nino con id N34 ha entrado en la soga
- Time: 2022-11-15 17:45:12.501: INFO ; El nino con id N36 ha entrado en la soga
- Time: 2022-11-15 17:45:12.605: INFO ; El nino con id N46 ha entrado en la soga
- Time: 2022-11-15 17:45:12.998: INFO ; El nino con id N20 ha entrado en la soga
- Time: 2022-11-15 17:45:13.302: INFO ; El nino con id N19 ha entrado en la soga
- Time: 2022-11-15 17:45:14.271: INFO ; El nino con id N22 ha entrado en la soga
- Time: 2022-11-15 17:45:15.655: INFO ; El nino con id N41 ha entrado en la soga
- Time: 2022-11-15 17:45:16.861: INFO ; El nino con id N51 ha entrado en la soga
- Time: 2022-11-15 17:45:23.019: INFO ; El nino con id N21 ha entrado en la soga
+ Time: 2023-02-09 09:20:14.79: INFO ; Se generan los monitores
+ Time: 2023-02-09 09:20:14.803: INFO ; Se generan los ninos
+ Time: 2023-02-09 09:20:33.534: INFO ; El nino con id N2 ha entrado en la soga
+ Time: 2023-02-09 09:20:37.845: INFO ; El nino con id N6 ha entrado en la soga
+ Time: 2023-02-09 09:20:39.986: INFO ; El nino con id N3 ha entrado en la soga
+ Time: 2023-02-09 09:20:42.149: INFO ; El nino con id N15 ha entrado en la soga
+ Time: 2023-02-09 09:20:48.563: INFO ; El nino con id N16 ha entrado en la soga
+ Time: 2023-02-09 09:20:51.809: INFO ; El nino con id N20 ha entrado en la soga

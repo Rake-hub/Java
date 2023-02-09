@@ -1,6 +1,5 @@
 package SingleAllAplication.modelo;
 
-;
 import SingleAllAplication.control.Monitor;
 
 import SingleAllAplication.control.Nino;
